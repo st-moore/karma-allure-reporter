@@ -1,8 +1,8 @@
 /*jslint node: true */
 "use strict";
-var AllureReporter = require('./src/AllureReporter');
+var AllureReporter = require('./src/CucumberAllureReporter');
 
 // PUBLISH DI MODULE
 module.exports = {
-    'reporter:allure': ['type', AllureReporter]
+    'reporter:cucumber-allure': ['type', AllureReporter]
 };
