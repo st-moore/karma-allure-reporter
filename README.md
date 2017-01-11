@@ -16,7 +16,7 @@ Install karma-cucumberjs-allure-reporter into your project as devDependency
 
 You can simple do it by:
 ```bash
-npm install karma-cucumber-allure-reporter --save-dev
+npm install karma-cucumberjs-allure-reporter --save-dev
 ```
 
 ## Configuration
