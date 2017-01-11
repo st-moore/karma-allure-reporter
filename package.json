@@ -1,6 +1,6 @@
 {
   "name": "karma-cucumberjs-allure-reporter",
-  "version": "1.4.4",
+  "version": "1.4.5",
   "description": "Allure Framework reporter to Karma specifically for karma-cucumberjs adapter",
   "main": "index.js",
   "repository": {
