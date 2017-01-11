@@ -1,11 +1,11 @@
 {
-  "name": "karma-allure-reporter",
+  "name": "karma-cucumberjs-allure-reporter",
   "version": "1.4.4",
-  "description": "Allure Framework reporter to Karma",
+  "description": "Allure Framework reporter to Karma specifically for karma-cucumberjs adapter",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.yandex-team.ru:just-boris/karma-allure-reporter.git"
+    "url": "git@github.com:st-moore/karma-cucumberjs-allure-reporter.git"
   },
   "keywords": [
     "karma-plugin",
